@@ -1,5 +1,3 @@
-README.txt
-
 Python Projects by Muhammad Rafif Latenritatta
 ----------------------------------------------
 
@@ -27,7 +25,7 @@ Python Projects by Muhammad Rafif Latenritatta
 
 All projects are implemented using Python and some integrate with Excel, making them ideal for business, automation, and data analysis tasks.
 
-Contact: latenritatta@gmail.com
+Contact: Muhammad.laten@gmail.com
 LinkedIn: linkedin.com/in/muhammadrafif
 
 

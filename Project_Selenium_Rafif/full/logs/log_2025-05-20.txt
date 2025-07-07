@@ -1,0 +1,50 @@
+2025-05-20 11:20:26 | rafif: tiga
+2025-05-20 11:20:28 | bub: tiga
+2025-05-20 11:20:31 | TDT Pak Rio Rio: C000442343
+2025-05-20 11:22:33 | rafif: mulai
+2025-05-20 11:23:23 | rafif: tiga
+2025-05-20 11:23:25 | TDT Pak Rio Rio: C000442343
+2025-05-20 11:23:28 | bub: tiga
+2025-05-20 11:24:56 | rafif: mulai
+2025-05-20 11:25:35 | rafif: tiga
+2025-05-20 11:26:09 | rafif: lima
+2025-05-20 11:28:17 | +62 812-1216-0260: Tes
+2025-05-20 11:30:04 | +62 812-1216-0260: Tes
+2025-05-20 11:30:06 | rafif: lima
+2025-05-20 11:30:08 | bub: tiga
+2025-05-20 11:30:10 | TDT Pak Rio Rio: C000442343
+2025-05-20 11:31:03 | rafif: mulai
+2025-05-20 11:31:07 | TDT Pak Rio Rio: C000442343
+2025-05-20 11:31:09 | bub: tiga
+2025-05-20 11:31:11 | HP Kantor: Tes
+2025-05-20 11:31:13 | +62 812-1216-0260: Tes
+2025-05-20 11:31:29 | HP Kantor: Mulai
+2025-05-20 11:32:34 | HP Kantor: Tiga
+2025-05-20 11:53:05 | Riska (Admin TDT): barusan udah aku gabung ke sistem datanya
+2025-05-20 11:53:08 | Rafif (TDT Purchase): cek
+2025-05-20 11:53:12 | Rio (TDT IMPORT): Mohon maaf Pak. Terlampir Draft Surat Pelepasan Hak dari Ibu tadi ya Pak.
+2025-05-20 11:53:18 | Ryan Proto (Work): Cuplikan data dari Timeline.txt:
+Selamat Sore Semua,
+Update jadwal Purchase 6 May 2025
+KEPUTUSAN DIREKSI:
+Pencarian barang utk SNI PS65
+- Pemilihan barang order utk PS64
+---
+Status Order PS63
+Container = 7 HQ 
+Total CBM DiProses = 479.71 CBM
+CTN Diproses = 2406 Ctn
+SKU = 233 SKU
+Timeline PS63
+rencana ETA 7 Mei 2025
+* rencana Sampai Gudang 21 Mei 2025
+Timeline PS64
+TDT Mulai Order 2 Mei 2025
+* Deadline Order 22 Mei 2025
+* rencana ETD 13 Juni 2025
+* rencana ETA 20 Juni 2025
+* rencana Sampai Gudang 03 Juli 2025
+Target Order PS64
+Container = 7-9 Container
+CTN = 3.764 ctn (exp. 3.056 ctn)
+SKU = 447 (exp. 345 sku)

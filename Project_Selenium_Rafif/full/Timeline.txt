@@ -1,0 +1,31 @@
+Selamat Sore Semua,
+
+Update jadwal Purchase 6 May 2025
+
+KEPUTUSAN DIREKSI:
+- Pencarian barang utk SNI PS65
+- Pemilihan barang order utk PS64
+
+---
+
+Status Order PS63
+Container = 7 HQ 
+Total CBM DiProses = 479.71 CBM
+CTN Diproses = 2406 Ctn
+SKU = 233 SKU
+
+Timeline PS63
+* rencana ETA 7 Mei 2025
+* rencana Sampai Gudang 21 Mei 2025
+
+Timeline PS64
+* TDT Mulai Order 2 Mei 2025
+* Deadline Order 22 Mei 2025
+* rencana ETD 13 Juni 2025
+* rencana ETA 20 Juni 2025
+* rencana Sampai Gudang 03 Juli 2025
+
+Target Order PS64
+Container = 7-9 Container
+CTN = 3.764 ctn (exp. 3.056 ctn)
+SKU = 447 (exp. 345 sku)
